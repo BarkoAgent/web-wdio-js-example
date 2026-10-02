@@ -1,0 +1,4 @@
+{
+  "cucumberautocomplete.steps": ["cucumber/step-definitions/*"],
+  "editor.formatOnSave": true
+}
